@@ -1,0 +1,3 @@
+rootProject.name = 'gmt_2160'
+
+include ':app'
